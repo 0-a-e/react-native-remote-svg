@@ -1,3 +1,5 @@
+componentWillReceiveProps更新済み
+
 # react-native-remote-svg
 
 `Image` component that supports svg filetype in
